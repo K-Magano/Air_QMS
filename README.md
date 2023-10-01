@@ -1,5 +1,7 @@
-☁️ Air Monitoring Device    
 
+![My image](https://github.com/K-Magano/Air_QMS/raw/main/march-research-impacts_Blog-Graphic-800x533.png)
+
+ # Air Monitoring Device  ☁️  
 
 This is a simple Air Monitoring Device using 3 sensors and A9G tracker.
 
